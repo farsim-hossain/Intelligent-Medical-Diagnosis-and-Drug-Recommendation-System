@@ -1,0 +1,4 @@
+Auto Doctor 
+- Understanding patient condition : Use Llama or some other LLM model to extract patient symptoms
+- Disease Prediction : https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning?select=Training.csv
+- Medicine Prediction: https://www.kaggle.com/datasets/jithinanievarghese/drugs-side-effects-and-medical-condition
